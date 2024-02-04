@@ -1,0 +1,7 @@
+O "jogo_multiplicacao", irá mostrar dois valores para serem multiplicados.
+O jogador deverá digitar o resultado correto da multiplicação.
+Se este resultado estiver correto, o jogador ganha 1 ponto, caso contrário o computador ganha 1 ponto.
+
+Se o jogador digitar algo que não seja um número INTEIRO, com exceção de não ter digitado nada, que fará com que o jogo termine, perderá 5 pontos e o computador ganhará 1 ponto.
+
+Para sair do jogo a qualquer momento, não digite nada e tecle ENTER. Sua pontuação será apagada da memória RAM do computador.
