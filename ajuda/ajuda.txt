@@ -1,7 +1,7 @@
-O "jogo_multiplicacao", ir· mostrar dois valores para serem multiplicados.
-O jogador dever· digitar o resultado correto da multiplicaÁ„o.
-Se este resultado estiver correto, o jogador ganha 1 ponto, caso contr·rio o computador ganha 1 ponto.
+Seja bem vindo ao "jogo_multiplicacao", que ir√° mostrar dois valores para serem multiplicados.
+O jogador dever√° digitar o resultado correto da multiplica√ß√£o.
+Se este resultado estiver correto, o jogador ganha 1 ponto, caso contr√°rio o computador ganha 1 ponto.
 
-Se o jogador digitar algo que n„o seja um n˙mero INTEIRO, com exceÁ„o de n„o ter digitado nada, que far· com que o jogo termine, perder· 5 pontos e o computador ganhar· 1 ponto.
+Se o jogador digitar algo que n√£o seja um n√∫mero INTEIRO, com exce√ß√£o de n√£o ter digitado nada, que far√° com que o jogo termine, perder√° 5 pontos e o computador ganhar√° 1 ponto.
 
-Para sair do jogo a qualquer momento, n„o digite nada e tecle ENTER. Sua pontuaÁ„o ser· apagada da memÛria RAM do computador.
+Para sair do jogo a qualquer momento, n√£o digite nada e tecle ENTER. Sua pontua√ß√£o ser√° apagada da mem√≥ria RAM do computador.
